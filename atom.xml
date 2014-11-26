@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>cokal</title>
+ <link href="http://www.cokal.org/atom.xml" rel="self"/>
+ <link href="http://www.cokal.org/"/>
+ <updated>2014-11-26T10:48:29+01:00</updated>
+ <id>http://www.cokal.org</id>
+ <author>
+   <name>Colin</name>
+   <email>colin@cokal.org</email>
+ </author>
+
+ 
+ <entry>
+   <title>Sublime Text</title>
+   <link href="http://www.cokal.org/2014/11/26/Sublime-Text/"/>
+   <updated>2014-11-26T00:00:00+01:00</updated>
+   <id>http://www.cokal.org/2014/11/26/Sublime-Text</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://css-tricks.com/sublime-text-front-end-developers/&quot;&gt;Sublime Text for Front End Developers &lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;With Sublime Text being one of today&amp;#39;s hottest editors for web development, it&amp;#39;s important to know the ins and outs of the editor as it relates to front end development. Rather than being a step by step guide on Sublime Text, this post is filled with hot tips, tricks and packages that will make you amazing with Sublime Text.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ich arbeite seit 2 Jahren ausschlieslich mit Sublime Text und nach einer kurzen Eingewöhnungsphase ist es mit Abstand das wichtigste Tool für mich geworden. &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hello</title>
+   <link href="http://www.cokal.org/2014/10/09/Hello/"/>
+   <updated>2014-10-09T00:00:00+02:00</updated>
+   <id>http://www.cokal.org/2014/10/09/Hello</id>
+   <content type="html">&lt;p&gt;By Wordpress Hi Jekyll. Ab jetzt läuft auf cokal alles per Jekyll. Was ich mir davon verspreche? Mehr Freiheit in Sachen Gestaltungsmöglichkeiten und mehr Möglichkeiten. Also mal sehen was alles geht. &lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
